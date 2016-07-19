@@ -4,12 +4,11 @@ html {
 }
 
 #clickShow {
-
-    width: 70% !important;
+	
 	    display: none;
     text-align: center;
     color: white;
-    font-size: .135rem;
+    font-size: .15rem;
     position: absolute;
     margin: auto;
     background-size: 100% 100%;
@@ -103,11 +102,11 @@ html {
 }
 
 
-.closebtn {
+#clofri {
 	
 	position: absolute; 
-	    top: -5px;
-    right: -10px;
+	    top: .09rem;
+    right: .05rem;
     width: .25rem;
     height: .25rem;
     background-size:100% 100%;
@@ -452,9 +451,8 @@ html {
     right: 0;
     top: 0;
     bottom: 0;
-    width: 2.1rem;
-    height: 2.1rem;
-    padding:0 .2em;
+    width: 2rem;
+    height: 2rem;
     background-size: 100% 100%;
     background-image: url(../img/gameInfo.png); no-repeat;	
 	
@@ -497,4 +495,3 @@ html {
     max-width: .4rem;
 }
 } 
-#clofri{top:0;right:-5px;}
