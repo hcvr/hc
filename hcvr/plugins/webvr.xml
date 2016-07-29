@@ -216,7 +216,7 @@
 	       onclick="vr_setup()"
 	       />
 
-
+<!--
 	<action name="webvr_showbuttons">
 		stopdelayedcall(vr_button_fadeout);
 		if(webvr.ismobilevr,
@@ -227,7 +227,7 @@
 			delayedcall(vr_button_fadeout, 3.0, tween(layer[webvr_exitbutton].alpha, 0.0, 1.0); );
 		  );
 	</action>
-
+-->
 
 
 	<!--
